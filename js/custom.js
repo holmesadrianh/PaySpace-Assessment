@@ -40,7 +40,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 return book[filterBySelect.value].toLowerCase().includes(searchInput.value.toLowerCase())
             } else {
                 return book.title.toLowerCase().includes(searchInput.value.toLowerCase()) ||
-                    book.author.toLowerCase().includes(searchInput.value.toLowerCase());
+                    book.author.toLowerCase().includes(searchInput.value.toLowerCase()) ||
+                    book.year.toString().includes(searchInput.value.toLowerCase());
             }
         });
         if (filterBySelect.value !== 'all') {
