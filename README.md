@@ -21,4 +21,5 @@ npm run watch
 ```
 
 ## Part 1
-Simple responsive webpage
+Simple responsive webpage.
+This section was kept simple. No custom CSS was used as the Bootstrap framework and utility classes is sufficient to create a simple layout. For more specific and unique designs, this would require more time or designer input. Keeping it clean and simple is more reliable if there is no design input.
