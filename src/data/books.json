@@ -1,0 +1,298 @@
+[
+    {
+        "id": "v5v7uQEACAAJ",
+        "volumeInfo": {
+            "title": "Web Application Development with R Using Shiny - Third Edition",
+            "authors": [
+                "Chris Beeley",
+                "Shitalkumar Sukhdeve"
+            ],
+            "publishedDate": "2018-09-27",
+            "description": "Analyze, communicate, and design your own sophisticated and interactive web applications using the R (v 3.4) Shiny (1.1.0) package Key Features Explore the power of R Shiny to make interactive web applications easily Create engaging user interfaces using elements such as HTML5 shiny tags and Ttabsets Build and deploy your interactive Shiny web application using shinyapps.io Book Description Web Application Development with R Using Shiny helps you become familiar with the complete R Shiny package. The book starts with a quick overview of R and its fundamentals, followed by an exploration of the fundamentals of Shiny and some of the things that it can help you do. You'll learn about the wide range of widgets and functions within Shiny and how they fit together to make an attractive and easy to use application. Once you have understood the basics, you'll move on to studying more advanced UI features, including how to style apps in detail using the Bootstrap framework or and Shiny's inbuilt layout functions. You'll learn about enhancing Shiny with JavaScript, ranging from adding simple interactivity with JavaScript right through to using JavaScript to enhance the reactivity between your app and the UI. You'll learn more advanced Shiny features of Shiny, such as uploading and downloading data and reports, as well as how to interact with tables and link reactive outputs. Lastly, you'll learn how to deploy Shiny applications over the internet, as well as and how to handle storage and data persistence within Shiny applications, including the use of relational databases. By the end of this book, you'll be ready to create responsive, interactive web applications using the complete R (v 3.4) Shiny (1.1.0) suite. What you will learn Harness the power of JavaScript to customize your applications Build dashboards with predefined UI and layouts Engage your users and build better analytics using interactive plots Learn advanced code patterns to make your applications easy to write and maintain. Develop a full understanding of Shiny's UI functions to give you the power to build a wide variety of attractive applications. Store data and interact with databases with Shiny. Learn how to share your Shiny applications Understand reactivity at the conceptual level to build more efficient and robust apps Who this book is for Web Application Development with R Using Shiny is for you if you are interested in creating compelling web applications and interactive data visualization over the web using Shiny. Programming experience with R is required.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=v5v7uQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=v5v7uQEACAAJ&dq=subject:web+development&hl=&cd=1&source=gbs_api"
+        }
+    },
+    {
+        "id": "EVOZtgEACAAJ",
+        "volumeInfo": {
+            "title": "Phoenix Web Development",
+            "authors": [
+                "Brandon Richey"
+            ],
+            "publishedDate": "2018-04-27",
+            "description": "Learn to build a high-performance functional prototype of a voting web application from scratch using Elixir and Phoenix Key Features Build a strong foundation in Functional-Programming techniques while learning to build compelling web applications Understand the Elixir Concurrency and parallelization model to build high-performing blazingly fast applications Learn to test, debug and deploy your web applications using Phoenix framework Book Description Phoenix is a modern web development framework that is used to build API's and web applications. It is built on Elixir and runs on Erlang VM which makes it much faster than other options. With Elixir and Phoenix, you build your application the right way, ready to scale and ready for the increasing demands of real-time web applications. This book covers the basics of the Phoenix web framework, showing you how to build a community voting application, and is divided into three parts. In the first part, you will be introduced to Phoenix and Elixir and understand the core terminologies that are used to describe them. You will also learn to build controller pages, store and retrieve data, add users to your app pages and protect your database. In the second section you will be able to reinforce your knowledge of architecting real time applications in phoenix and not only debug these applications but also diagnose issues in them. In the third and final section you will have the complete understanding of deploying and running the phoenix application and should be comfortable to make your first application release By the end of this book, you'll have a strong grasp of all of the core fundamentals of the Phoenix framework, and will have built a full production-ready web application from scratch. What you will learn Learn Phoenix Framework fundamentals and v1.3's new application structure Build real-time applications with channels and presence Utilize GenServers and other OTP fundamentals to keep an application stable Track users as they sign in and out of chat with Phoenix's built-in presence functionality Write your own database interaction code that is safe, bug-free, and easy to work with Explore testing and debugging methodologies to understand a real software development lifecycle for a Phoenix application Deploy and run your Phoenix application in production Who this book is for This book is for people with a basic knowledge of Elixir, who want to start building web applications. Prior experience with web technologies is assumed.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=EVOZtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=EVOZtgEACAAJ&dq=subject:web+development&hl=&cd=2&source=gbs_api"
+        }
+    },
+    {
+        "id": "_BUEvwEACAAJ",
+        "volumeInfo": {
+            "title": "Hands-On Server-Side Web Development with Swift",
+            "authors": [
+                "Angus Yeung"
+            ],
+            "publishedDate": "2018-11-30",
+            "description": "Take advantage of using the same programming language for both server and client-side with this hands-on book for building web applications with Swift. Key Features Build a full-stack iOS and web applications using Swift, Vapor, and Kitura Framework Leverage ORM abstraction drivers to make queries to SQL database Develop your very own containerized microservices with Swift, Docker and Kubernetes Book Description This book is about building professional web applications and web services using Swift 4.0 and leveraging two popular Swift web frameworks: Vapor 3.0 and Kitura 2.5. In the first part of this book, we'll focus on the creation of basic web applications from Vapor and Kitura boilerplate projects. As the web apps start out simple, more useful techniques, such as unit test development, debugging, logging, and the build and release process, will be introduced to readers. In the second part, we'll learn different aspects of web application development with server-side Swift, including setting up routes and controllers to process custom client requests, working with template engines such as Leaf and Stencil to create dynamic web content, beautifying the content with Bootstrap, managing user access with authentication framework, and leveraging the Object Relational Mapping (ORM) abstraction layer (Vapor's Fluent and Kitura's Kuery) to perform database operations. Finally, in the third part, we'll develop web services in Swift and build our API Gateway, microservices and database backend in a three-tier architecture design. Readers will learn how to design RESTful APIs, work with asynchronous processes, and leverage container technology such as Docker in deploying microservices to cloud hosting services such as Vapor Cloud and IBM Cloud. What you will learn Build simple web apps using Vapor 3.0 and Kitura 2.5 Test, debug, build, and release server-side Swift applications Design routes and controllers for custom client requests Work with server-side template engines Deploy web apps to a host in the cloud Enhance web content with Bootstrap Manage user access using authentication framework Design for API gateway Develop an iPhone app to work with web services Deploy your app as a microservice in a cluster Deploy Swift web services with a RESTful API design Who this book is for This book is about building professional web applications and web services using Swift and leveraging two popular Swift web frameworks: Vapor 3.0 and Kitura 2.5. We assume the readers to have some working knowledge of Swift programming language. The readers could be beginners of Swift programming, seasonal iOS or macOS developers, or software developers who want to work on practical Swift applications while learning the language itself. By the end of the book, you would be able to successfully create your own web applications and web services by leveraging the powerful ecosystem of Swift.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=_BUEvwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=_BUEvwEACAAJ&dq=subject:web+development&hl=&cd=3&source=gbs_api"
+        }
+    },
+    {
+        "id": "cgwxuwEACAAJ",
+        "volumeInfo": {
+            "title": "Building Enterprise JavaScript Applications",
+            "authors": [
+                "Daniel Li"
+            ],
+            "publishedDate": "2018-09-29",
+            "description": "Strengthen your applications by adopting Test-Driven Development (TDD), the OpenAPI Specification, Continuous Integration (CI), and container orchestration. Key Features Create production-grade JavaScript applications from scratch Build microservices and deploy them to a Docker container for scaling applications Test and deploy your code with confidence using Travis CI Book Description With the over-abundance of tools in the JavaScript ecosystem, it's easy to feel lost. Build tools, package managers, loaders, bundlers, linters, compilers, transpilers, typecheckers - how do you make sense of it all? In this book, we will build a simple API and React application from scratch. We begin by setting up our development environment using Git, yarn, Babel, and ESLint. Then, we will use Express, Elasticsearch and JSON Web Tokens (JWTs) to build a stateless API service. For the front-end, we will use React, Redux, and Webpack. A central theme in the book is maintaining code quality. As such, we will enforce a Test-Driven Development (TDD) process using Selenium, Cucumber, Mocha, Sinon, and Istanbul. As we progress through the book, the focus will shift towards automation and infrastructure. You will learn to work with Continuous Integration (CI) servers like Jenkins, deploying services inside Docker containers, and run them on Kubernetes. By following this book, you would gain the skills needed to build robust, production-ready applications. What you will learn Practice Test-Driven Development (TDD) throughout the entire book Use Cucumber, Mocha and Selenium to write E2E, integration, unit and UI tests Build stateless APIs using Express and Elasticsearch Document your API using OpenAPI and Swagger Build and bundle front-end applications using React, Redux and Webpack Containerize services using Docker Deploying scalable microservices using Kubernetes Who this book is for If you're a JavaScript developer looking to expand your skillset and become a senior JavaScript developer by building production-ready web applications, then this book is for you.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=cgwxuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=cgwxuwEACAAJ&dq=subject:web+development&hl=&cd=4&source=gbs_api"
+        }
+    },
+    {
+        "id": "cv9RkgEACAAJ",
+        "volumeInfo": {
+            "title": "Importing, Exporting and Innovation in Developing Countries",
+            "authors": [
+                "Murat Seker"
+            ],
+            "publishedDate": "2009",
+            "previewLink": "http://books.google.co.za/books?id=cv9RkgEACAAJ&dq=subject:web+development&hl=&cd=5&source=gbs_api"
+        }
+    },
+    {
+        "id": "tOR3swEACAAJ",
+        "volumeInfo": {
+            "title": "Django 2 by Example",
+            "authors": [
+                "Antonio Mele"
+            ],
+            "publishedDate": "2018-05-28",
+            "description": "Learn Django 2.0 with four end-to-end projects Key Features Learn Django by building real-world web applications from scratch Develop powerful web applications quickly using the best coding practices Integrate other technologies into your application with clear, step-by-step explanations and comprehensive example code Book Description If you want to learn about the entire process of developing professional web applications with Django, then this book is for you. This book will walk you through the creation of four professional Django projects, teaching you how to solve common problems and implement best practices. You will learn how to build a blog application, a social image-bookmarking website, an online shop, and an e-learning platform. The book will teach you how to enhance your applications with AJAX, create RESTful APIs, and set up a production environment for your Django projects. The book walks you through the creation of real-world applications, while solving common problems and implementing best practices. By the end of this book, you will have a deep understanding of Django and how to build advanced web applications What you will learn Build practical, real-world web applications with Django Use Django with other technologies, such as Redis and Celery Develop pluggable Django applications Create advanced features, optimize your code, and use the cache framework Add internationalization to your Django projects Enhance your user experience using JavaScript and AJAX Add social features to your projects Build RESTful APIs for your applications Who this book is for If you are a web developer who wants to see how to build professional sites with Django, this book is for you. You will need a basic knowledge of Python, HTML, and JavaScript, but you don't need to have worked with Django before.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=tOR3swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=tOR3swEACAAJ&dq=subject:web+development&hl=&cd=6&source=gbs_api"
+        }
+    },
+    {
+        "id": "JPPckc_y0LwC",
+        "volumeInfo": {
+            "title": "Help Or Hindrance?",
+            "authors": [
+                "John S. Wilson"
+            ],
+            "publishedDate": "2007",
+            "description": "Abstract: The authors test the hypothesis that product standards harmonized to de facto international standards are less trade restrictive than ones that are not. To do this, the authors construct a new database of European Union (EU) product standards. The authors identify standards that are aligned with ISO standards (as a proxy for de facto international norms). The authors use a sample-selection gravity model to examine the impact of EU standards on African textiles and clothing exports, a sector of particular development interest. The authors find robust evidence that non-harmonized standards reduce African exports of these products. EU standards which are harmonized to ISO standards are less trade restricting. Our results suggest that efforts to promote African exports of manufactures may need to be complemented by measures to reduce the cost impacts of product standards, including international harmonization. In addition, efforts to harmonize national standards with international norms, including through the World Trade Organization Technical Barriers to Trade Agreement, promise concrete benefits through trade expansion.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=JPPckc_y0LwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=JPPckc_y0LwC&printsec=frontcover&dq=subject:web+development&hl=&cd=7&source=gbs_api"
+        }
+    },
+    {
+        "id": "-BuhvAEACAAJ",
+        "volumeInfo": {
+            "title": "Learn WebAssembly",
+            "authors": [
+                "Mike Rourke"
+            ],
+            "publishedDate": "2018-09-25",
+            "description": "In the first definitive guide on WebAssembly, you'll learn how you can wield this new technology to break through the current barriers of web development and build an entirely new class of performant applications . Key Features Generate WebAssembly modules from C and C++ using Emscripten and interact with these modules in the browser Learn how to use WebAssembly outside of the browser and load modules using Node.js Build a high-performance application using C and WebAssembly and port an existing C++ game to WebAssembly using Emscripten Book Description WebAssembly is a brand-new technology that represents a paradigm shift in web development. This book aims to teaches programmers how to leverage this technology to write high- performance applications that run in the browser. This book will introduces you to the powerful WebAssembly concepts of WebAssembly that willto help you write lean and powerful web applications with native performance. You will start with the evolution of web programming, the state of things today, and what can be done with the advent and release of WebAssembly. We take a look at the journey from JavaScript to asm.js to WebAssembly. We then move on to analyzinge the anatomy of a WebAssembly module and the relationship between the binary and text formats, along with the corresponding JavaScript API. Further on, weyou'll implement all the techniques you've learned by to building a high-performance application using C and WebAssembly, and then port an existing game written in C++ to WebAssembly using Emscripten. By the end of this book, you would will be well-equipped to create high-performance applications and games for the web using WebAssembly. What you will learn Learn how WebAssembly came to be and its associated elements (text format, module, and JavaScript API) Create, load, and debug a WebAssembly module (editor and compiler/toolchain) Build a high-performance application using C and WebAssembly Extend WebAssembly's feature set using Emscripten by porting a game written in C++ Explore upcoming features of WebAssembly, Node.js integration, and alternative compilation methods Who this book is for If you are a web developer or C/C++ programmer keen to leverage the powerful technology of WebAssembly to build high-performance web applications, then this book is for you.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=-BuhvAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=-BuhvAEACAAJ&dq=subject:web+development&hl=&cd=8&source=gbs_api"
+        }
+    },
+    {
+        "id": "JPPckc_y0LwC",
+        "volumeInfo": {
+            "title": "Help Or Hindrance?",
+            "authors": [
+                "John S. Wilson"
+            ],
+            "publishedDate": "2007",
+            "description": "Abstract: The authors test the hypothesis that product standards harmonized to de facto international standards are less trade restrictive than ones that are not. To do this, the authors construct a new database of European Union (EU) product standards. The authors identify standards that are aligned with ISO standards (as a proxy for de facto international norms). The authors use a sample-selection gravity model to examine the impact of EU standards on African textiles and clothing exports, a sector of particular development interest. The authors find robust evidence that non-harmonized standards reduce African exports of these products. EU standards which are harmonized to ISO standards are less trade restricting. Our results suggest that efforts to promote African exports of manufactures may need to be complemented by measures to reduce the cost impacts of product standards, including international harmonization. In addition, efforts to harmonize national standards with international norms, including through the World Trade Organization Technical Barriers to Trade Agreement, promise concrete benefits through trade expansion.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=JPPckc_y0LwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=JPPckc_y0LwC&pg=PP2&dq=subject:web+development&hl=&cd=9&source=gbs_api"
+        }
+    },
+    {
+        "id": "117vkQEACAAJ",
+        "volumeInfo": {
+            "title": "The World Bank's Publication Record",
+            "authors": [
+                "Martin Ravallion",
+                "Adam Wagstaff"
+            ],
+            "publishedDate": "2010",
+            "previewLink": "http://books.google.co.za/books?id=117vkQEACAAJ&dq=subject:web+development&hl=&cd=10&source=gbs_api"
+        }
+    },
+    {
+        "id": "tD2qlAEACAAJ",
+        "volumeInfo": {
+            "title": "Cybercartography [electronic resource]",
+            "authors": [
+                "David Ruxton Fraser Taylor"
+            ],
+            "publishedDate": "2005",
+            "description": "CD-ROM contains links to various Web sites to capture the more dynamic and interactive elements of the paradigm.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=tD2qlAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=tD2qlAEACAAJ&dq=subject:web+development&hl=&cd=11&source=gbs_api"
+        }
+    },
+    {
+        "id": "Lak_kgEACAAJ",
+        "volumeInfo": {
+            "title": "North-South Trade-Related Technology Diffusion",
+            "authors": [
+                "Maurice Schiff",
+                "Yanling Wang"
+            ],
+            "publishedDate": "2010",
+            "previewLink": "http://books.google.co.za/books?id=Lak_kgEACAAJ&dq=subject:web+development&hl=&cd=12&source=gbs_api"
+        }
+    },
+    {
+        "id": "80pKzJQPeJkC",
+        "volumeInfo": {
+            "title": "human capital and university- industry linkage's role in fostering firm innovation: an empirical study of chile and colombia",
+            "authors": [
+                "Daniela Marotta"
+            ],
+            "publishedDate": "2007",
+            "description": "A firm's absorptive capacity, human capital and linkages with knowledge institutions have been shown to increase the firm's probability of innovating in OECD economies. Despite its importance for national- and firm-level competitiveness, few papers examine the impact of the same variables for firms innovation in Latin America. This paper investigates the link between firm innovation and its absorption capacity as proxied by the presence of a R & D department, the firm's human capital, and its interaction with research centers and universities. We analyze the case of Chilean and Colombian manufacturing firms using data from innovation surveys. A probit regression model is applied to identify the determinants of innovation activity. We find that collaboration with university and research institutions is associated with an increase in the probability of introducing a new product in Chilean and Colombian firms of 29 and 44 percent, respectively, and it can increase up to 58 percent in the case of Colombian firms interacting with research centers. Moreover, firms whose employees have a higher level of education, or whose managers/supervisors have a higher (perceived) level of knowledge, are more likely to innovate. Although the estimates could be affected by biases and suffer from shortcomings in data, the findings suggest that policies and incentives to increase firm-level human capital and industry-university linkages are important to increase innovation in Latin America.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=80pKzJQPeJkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=80pKzJQPeJkC&pg=PA40&dq=subject:web+development&hl=&cd=13&source=gbs_api"
+        }
+    },
+    {
+        "id": "2woQgIOezFAC",
+        "volumeInfo": {
+            "title": "Urbanization and Productivity: Evidence from Turkish Provinces over the Period",
+            "authors": [
+                "Somik V. Lall, Souleymane Coulibaly, Uwe Deichmann"
+            ],
+            "publishedDate": "2007",
+            "description": "Abstract: Since the early 1980s, Turkey has been going through a rapid urbanization process at a pace beyond the World average. This paper aims at assessing the impact of this rapid urbanization process on the country's sector productivity. The authors built a database combining two-digit manufacturing data and some geographical, infrastructural, and socio-economic data collected at the provincial level by the Turkish State Institute of Statistics. The paper develops a parsimonious econometric relation linking sector productivity to accessibility, localization, and urbanization economies, proxying variables in the tradition of the New Economic Geography literature. The estimation results suggest that both localization and urbanization economies, as well as market accessibility, are productivity-enhancing factors in Turkey, although the causation link between productivity and these agglomeration measures is not clearly established. The sector-by-sector estimation confirms this result, although the localization economies effect is negative for the non-oil mineral sector, and the urbanization economies effect is weak for natural-resource-based sectors such as the wood and metal industry. Although the data cover the period up to 2000 and thus ignore the financial crisis that hit Turkey in 2001, the current structural transformation of the country away from the agricultural sector gives room to use the insights of these results as a preliminary step to understand the new challenges faced by the Turkish manufacturing sector. The results provide a discussion base to revisit the policy agenda on the improvement of the accessibility to markets, the improvement of the business environment to ease the creation and development of new firms, and a well-managed urbanization process to tap in the economic potential of cities.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=2woQgIOezFAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=2woQgIOezFAC&pg=PP2&dq=subject:web+development&hl=&cd=14&source=gbs_api"
+        }
+    },
+    {
+        "id": "pJVllXWrDMwC",
+        "volumeInfo": {
+            "title": "exports and productivity-comparable evidence for 14 countries",
+            "authors": [
+                "Leonhard Pertl",
+                "?rt Kostevc, Sa\u009ao Polanec, Jo\u009ee Pavli? Damijan, Leonhard Pertl",
+                "Jo\u009ee Pavli? Damijan",
+                "?rt Kostevc",
+                "Sa\u009ao Polanec"
+            ],
+            "publishedDate": "2007",
+            "description": "Abstract: The authors use comparable micro level panel data for 14 countries and a set of identically specified empirical models to investigate the relationship between exports and productivity. The overall results are in line with the big picture that is by now familiar from the literature: Exporters are more productive than non-exporters when observed and unobserved heterogeneity are controlled for, and these exporter productivity premia tend to increase with the share of exports in total sales; there is strong evidence in favour of self-selection of more productive firms into export markets, but nearly no evidence in favour of the learning-by-exporting hypothesis. The authors document that the exporter premia differ considerably across countries in identically specified empirical models. In a meta-analysis of their results the authors find that countries that are more open and have more effective government report higher productivity premia. However, the level of development per se does not appear to be an explanation for the observed cross-country differences.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=pJVllXWrDMwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=pJVllXWrDMwC&pg=PP2&dq=subject:web+development&hl=&cd=15&source=gbs_api"
+        }
+    },
+    {
+        "id": "SexSAAAAMAAJ",
+        "volumeInfo": {
+            "title": "The World Wide Web Unleashed",
+            "authors": [
+                "John December",
+                "Neil Randall"
+            ],
+            "publishedDate": "1995",
+            "description": "This book provides new coverage of all the Web developments since the first edition--Netscape, commercial servers, Web development tools--and features an entirely new section on setting up and maintaining a Web server, as well as beefed-up coverage of advanced Web development techniques such as image maps and forms.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=SexSAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=SexSAAAAMAAJ&q=subject:web+development&dq=subject:web+development&hl=&cd=16&source=gbs_api"
+        }
+    },
+    {
+        "id": "oserkQEACAAJ",
+        "volumeInfo": {
+            "title": "U.S. and Them",
+            "authors": [
+                "Jishnu Das"
+            ],
+            "publishedDate": "2009",
+            "previewLink": "http://books.google.co.za/books?id=oserkQEACAAJ&dq=subject:web+development&hl=&cd=17&source=gbs_api"
+        }
+    },
+    {
+        "id": "pJVllXWrDMwC",
+        "volumeInfo": {
+            "title": "exports and productivity-comparable evidence for 14 countries",
+            "authors": [
+                "Leonhard Pertl",
+                "?rt Kostevc, Sa\u009ao Polanec, Jo\u009ee Pavli? Damijan, Leonhard Pertl",
+                "Jo\u009ee Pavli? Damijan",
+                "?rt Kostevc",
+                "Sa\u009ao Polanec"
+            ],
+            "publishedDate": "2007",
+            "description": "Abstract: The authors use comparable micro level panel data for 14 countries and a set of identically specified empirical models to investigate the relationship between exports and productivity. The overall results are in line with the big picture that is by now familiar from the literature: Exporters are more productive than non-exporters when observed and unobserved heterogeneity are controlled for, and these exporter productivity premia tend to increase with the share of exports in total sales; there is strong evidence in favour of self-selection of more productive firms into export markets, but nearly no evidence in favour of the learning-by-exporting hypothesis. The authors document that the exporter premia differ considerably across countries in identically specified empirical models. In a meta-analysis of their results the authors find that countries that are more open and have more effective government report higher productivity premia. However, the level of development per se does not appear to be an explanation for the observed cross-country differences.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=pJVllXWrDMwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=pJVllXWrDMwC&printsec=frontcover&dq=subject:web+development&hl=&cd=18&source=gbs_api"
+        }
+    },
+    {
+        "id": "dIdn3-0kScsC",
+        "volumeInfo": {
+            "title": "Substitution between foreign capital in china, india, the rest of the world, and latin america: much ado about nothing?",
+            "authors": [
+                "Marcelo Olarreaga"
+            ],
+            "publishedDate": "2007",
+            "description": "This paper explores the impact of the emergence of China and India on Foreign Capital Stocks (FCS) in other economies. Using bilateral FCS data from 1990-2003 and drawing from the Knowledge-Capital Model of multinational enterprises to control for fundamental determinants of FCS across countries, the evidence suggests that the impact of foreign capital in China and India on other countries' FCS has been positive. This finding is robust across different specifications and estimation techniques. There is surprisingly weak evidence of substitution in manufacturing FCS away from Central America/Mexico in favor of China, and from Southern Cone countries to India, but these findings are not robust to the use of alternative estimation techniques. In sum, fears of a global competition for FDI seem misplaced, and policymakers concerned about attracting foreign investors should focus their efforts on the fundamentals determinants of FDI.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=dIdn3-0kScsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=dIdn3-0kScsC&pg=PA2&dq=subject:web+development&hl=&cd=19&source=gbs_api"
+        }
+    },
+    {
+        "id": "hahpDQAAQBAJ",
+        "volumeInfo": {
+            "title": "Computational Web Intelligence",
+            "authors": [
+                "Yan-Qing Zhang"
+            ],
+            "publishedDate": "2004",
+            "description": "- The book completely introduces the intelligent Web techniques based on soft computing, granular computing, computational intelligence, and Web technology for different intelligent Web applications - The first book to introduce the novel intelligent Web theory (computational Web intelligence) with many potential intelligent Web applications - The book introduces CWI techniques for currently hot and important applications such as Web security, Internet security, bioinformatics, Web search engines, Web mining, e-commerce, intelligent Web agents, etc.",
+            "imageLinks": {
+                "thumbnail": "http://books.google.com/books/content?id=hahpDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "previewLink": "http://books.google.co.za/books?id=hahpDQAAQBAJ&pg=PR18&dq=subject:web+development&hl=&cd=20&source=gbs_api"
+        }
+    }
+]
