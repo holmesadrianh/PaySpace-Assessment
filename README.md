@@ -28,3 +28,7 @@ This section was kept simple. No custom CSS was used as the Bootstrap framework 
 
 ## Part 2
 Using the existing foundation, a simple page for listing and filtering books was implemented. The focus is mainly on the filtering functionality. Design kept minimal and default with bootstrap to save time.
+
+
+## Part 3
+Re-implemented part 2 into VueJS. The data for the books was also migrated to a json file and reusable sections were converted to components.
