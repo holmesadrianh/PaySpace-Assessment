@@ -32,3 +32,7 @@ Using the existing foundation, a simple page for listing and filtering books was
 
 ## Part 3
 Re-implemented part 2 into VueJS. The data for the books was also migrated to a json file and reusable sections were converted to components.
+
+
+## Part 4
+Created a simple page with the single goal of finding longest palindromic substring. in addition, sample strings have been included to test the functionality.
