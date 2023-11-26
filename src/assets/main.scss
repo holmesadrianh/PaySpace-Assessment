@@ -1,11 +1,14 @@
-@import "../node_modules/bootstrap/scss/bootstrap";
+@import 'node_modules/bootstrap/scss/bootstrap';
 
 // Custom CSS should be avoided where possible as utility classes provide plenty control over the UI.
 // Any custom CSS would best be extending existing utility frameworks such as Bootstrap.
 
 // Extended utilities
 .min-vh {
-    &-50 {
-        min-height: 50vh;
-    }
+  &-50 {
+    min-height: 50vh;
+  }
+  &-75 {
+    min-height: 75vh;
+  }
 }
